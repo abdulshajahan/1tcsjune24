@@ -1,0 +1,1 @@
+write-out "hello world"
